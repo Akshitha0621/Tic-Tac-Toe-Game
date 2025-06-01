@@ -42,3 +42,4 @@ Win/Draw messages
 #### License
 This projrct is Licensed under the MIT LICENSE-[MIT LICENSE](https://github.com/Akshitha0621/Tic-Tac-Toe-Game/blob/2269cafbc2e7c6de5124f49b526a32059569be2c/LICENSE)
 
+##### Author
