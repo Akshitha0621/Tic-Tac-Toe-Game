@@ -10,5 +10,7 @@ Name input screen
 
 Gameplay (Player vs Machine)
 
-![Image Alt]()
+![Image Alt](https://github.com/Akshitha0621/Tic-Tac-Toe-Game/blob/e1290d6ad5d960c02c353ea2655dfbe26caef2c0/Screenshot%202025-06-01%20205542.png)
+
+Win/Draw messages
 
