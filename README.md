@@ -17,7 +17,7 @@ Win/Draw messages
 
 ## Features
 
-1. Single Player Mode – Play against a machine opponent
+1.Single Player Mode – Play against a machine opponent
 
 2.AI Logic – Unbeatable Minimax algorithm
 
