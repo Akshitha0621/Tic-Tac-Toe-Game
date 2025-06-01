@@ -6,7 +6,9 @@ The game features a clean graphical interface, welcome screen, and user login â€
 
 Name input screen
 
-![Image Alt]()
+![Image Alt](https://github.com/Akshitha0621/Tic-Tac-Toe-Game/blob/99816f0c324c95251ef9d22d6c369c705f30e1e3/Screenshot%202025-06-01%20205508.png)
+
+Gameplay (Player vs Machine)
 
 ![Image Alt]()
 
