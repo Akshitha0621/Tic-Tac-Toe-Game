@@ -44,5 +44,7 @@ This projrct is Licensed under the MIT LICENSE-[MIT LICENSE](https://github.com/
 
 ##### Author
 
+Akshitha Neela
 ![Author](https://github.com/Akshitha0621)
+
 Created as a Python mini-project to learn AI game logic and graphical interfaces.
