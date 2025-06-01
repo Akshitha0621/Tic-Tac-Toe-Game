@@ -14,3 +14,19 @@ Gameplay (Player vs Machine)
 
 Win/Draw messages
 
+## Features
+
+1. Single Player Mode – Play against a machine opponent
+2.AI Logic – Unbeatable Minimax algorithm
+3.GUI – Built with Pygame (grid, symbols, messages)
+4.Login Page – Enter your name before playing
+5.Restart Game – Press R to restart after game ends
+6.Dynamic Messages – "You Won!", "Machine Won!", or "It's a Draw!"
+
+### How To Play
+
+1.Click on an empty cell to make your move (O)
+2.The machine (X) plays automatically after your move
+3.First to get 3 in a row (horizontally, vertically, or diagonally) wins
+4.Press R anytime to restart the game
+
